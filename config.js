@@ -1,4 +1,4 @@
 const WC_CONFIG = {
-  checkoutUrl: 'https://checkout.wizytowki.co',
-  apiUrl: 'https://checkout.wizytowki.co/wp-json/wizytowki/v1',
+  checkoutUrl: 'https://sklep.wizytowki.co',
+  apiUrl: 'https://sklep.wizytowki.co/wp-json/wizytowki/v1',
 };
